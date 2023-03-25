@@ -1,27 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <animals>
-    <animal>
-
-    </animal>
-    
 
     <animal>
-
+        <name>Lion</name>
+        <scientific_name>Panthera leo</scientific_name>
+        <diet>Carnivore</diet>
+        <average_lifespan>15 to 16 years</average_lifespan>
+        <habitats>
+            <habitat>Tanzania</habitat>
+            <habitat>Botswana</habitat>
+            <habitat>Kenya</habitat>
+            <habitat>South Africa</habitat>
+            <habitat>Zambia</habitat>
+        </habitats>
     </animal>
-
-
     <animal>
-
+        <name>Tiger</name>
+        <scientific_name>Panthera tigris</scientific_name>
+        <diet>Carnivore</diet>
+        <average_lifespan>8 to 10 years</average_lifespan>
+        <habitats>
+            <habitat>Vietnam</habitat>
+            <habitat>Cambodia</habitat>
+            <habitat>India</habitat>
+            <habitat>Bangladesh</habitat>
+            <habitat>Bhutan</habitat>
+        </habitats>
     </animal>
-
-
     <animal>
-    
+        <name>Leopard</name>
+        <scientific_name>Panthera pardus</scientific_name>
+        <diet>Carnivore</diet>
+        <average_lifespan>12 to 17 years</average_lifespan>
+        <habitats>
+            <habitat>Sub-Saharan Africa</habitat>
+            <habitat>Arabian Peninsula</habitat>
+            <habitat>Southwestern and eastern Turkey</habitat>
+            <habitat>Sinai Judean Desert</habitat>
+            <habitat>Russia</habitat>
+        </habitats>
     </animal>
-
-
     <animal>
-
+        <name>Sheep</name>
+        <scientific_name>Ovis aries</scientific_name>
+        <diet>Herbivore</diet>
+        <average_lifespan>10 to 12 years</average_lifespan>
+        <habitats>
+            <habitat>China</habitat>
+            <habitat>Australia</habitat>
+            <habitat>India</habitat>
+            <habitat>India</habitat>
+            <habitat>India</habitat>
+        </habitats>
     </animal>
+    <animal>
+        <name>Deer</name>
+        <scientific_name>Cervidae</scientific_name>
+        <diet>Herbivore</diet>
+        <average_lifespan>6 to 14 years</average_lifespan>
+        <habitats>
+            <habitat>Alabama</habitat>
+            <habitat>Alaska</habitat>
+            <habitat>Arkansas</habitat>
+            <habitat>Arizona</habitat>
+            <habitat>California</habitat>
+        </habitats>
+    </animal>
+    <animal>
+        <name>Giraffe</name>
+        <scientific_name>Giraffa</scientific_name>
+        <diet>Herbivore</diet>
+        <average_lifespan>20 to 27 years</average_lifespan>
+        <habitats>
+            <habitat>Niger</habitat>
+            <habitat>Chad</habitat>
+            <habitat>Sudan</habitat>
+            <habitat>Cameroon</habitat>
+            <habitat> Central African Republic</habitat>
+        </habitats>
+    </animal>
+    <animal>
+        <name>Bears</name>
+        <scientific_name>Ursidae</scientific_name>
+        <diet>Omnivore</diet>
+        <average_lifespan>10 to 20 years</average_lifespan>
+        <habitats>
+            <habitat>Canada</habitat>
+            <habitat>Greenland</habitat>
+            <habitat>Norway</habitat>
+            <habitat>Russia</habitat>
+            <habitat>United States</habitat>
+        </habitats>
+    </animal>
+    <animal>
+        <name>Chimpanzee</name>
+        <scientific_name>Pan troglodytes</scientific_name>
+        <diet>Omnivore</diet>
+        <average_lifespan>40 to 50 years</average_lifespan>
+        <habitats>
+            <habitat> Côte D'Ivoire</habitat>
+            <habitat>Guinea</habitat>
+            <habitat>Sierra Leone</habitat>
+            <habitat>Nigeria</habitat>
+            <habitat>Liberia</habitat>
+        </habitats>
+    </animal>
+    <animal>
+        <name>Badger</name>
+        <scientific_name>Taxidea Taxus</scientific_name>
+        <diet>Omnivore</diet>
+        <average_lifespan>Up to 24 years</average_lifespan>
+        <habitats>
+            <habitat>Sub-Saharan Africa</habitat>
+            <habitat>Saudi Arabia</habitat>
+            <habitat>Iran</habitat>
+            <habitat>Western Asia</habitat>
+            <habitat>Western North America</habitat>
+        </habitats>
+    </animal>
+
 </animals>
